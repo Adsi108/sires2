@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>SIRES VERSION 1.8 | </title>
+    <title>SIRES VERSION 1.8  </title>
 
     <!-- Bootstrap -->
     <link href="{{ url () }}/resources/others/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
